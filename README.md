@@ -1,6 +1,8 @@
 # Overview
 
-This is a handy Scikit-Learn "cheat sheet" to Machine Learning with Python, mainly consisting of code examples. It contains the basic steps needed to implement Machine Learning algorithms successfully: data loading, data preprocessing, creating a model and fitting the data to it, predicting target labels, validating the model and tuning it further to improve its performance. 
+This is a handy Scikit-Learn "cheat sheet" to Machine Learning with Python, mainly consisting of code examples. 
+
+It contains the basic steps needed to implement Machine Learning algorithms successfully: data loading, data preprocessing, creating a model and fitting the data to it, predicting target labels, validating the model and tuning it further to improve its performance: 
 
 * A Basic Code Example
 * Data Loading
