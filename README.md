@@ -1,9 +1,10 @@
 * **1. Machine Learning A-Z (Udemy-based)**
 
-Is based on the Udemy course "Machine Learning A-Z™: Hands-On Python & R In Data Science". Created back in 2018. Contains pieces of code in Python and R for a variaty of ML tasks.
+This material is based on the Udemy course "Machine Learning A-Z™: Hands-On Python & R In Data Science". The folder was created in 2018. It contains pieces of code in Python and R for a variaty of ML tasks.
 
 * **2. Deploy ML model to AWS (Coursera-based)**
-This is Coursera-based project devoted to building a spam detector using ML, creating a Flask API application and deploying it via AWS Elastic Beanstalk technology. 
+
+This is Coursera-based project. It's devoted to creating a Flask API ML application (a spam detector) and deploying it with the help of the AWS Elastic Beanstalk technology. 
 
 
 * **ML-with-Python-Sklearn.ipynb**
